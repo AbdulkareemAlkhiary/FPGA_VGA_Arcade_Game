@@ -17,10 +17,10 @@ The hardware modules we incorporated were 2 PIO’s.
 These PIO’s were responsible for sending the scan code from the PS2 keyboard, and the code_ready signal sent by the PS2 driver. 
 This allowed us to read the codes from the keyboard and turn them into useful keystrokes implemented into our software.
 
-BOM: 
- 1. PS2 Keyboard
- 2. DE1-Board
+BOM::: 
+ * PS2 Keyboard
+ * DE1-Board
 
 == Step 2: Load the code
 
-Upload the code contained in this sketch on to your board
+Upload the code contained in this folder on to your board
