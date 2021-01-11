@@ -1,5 +1,8 @@
-# FPGA_VGA_Arcade_Game
-Developed a hardware/software (Verilog/C) SoC design on Altera DE1-SoC board that implements an arcade game on top of a VGA driver.
+:Author: araasai
+:Email: {AuthorEmail}
+:Date: 09/12/2020
+:Revision: version#
+:License: Public Domain
 
 
 = FPGA VGA Arcade Game
